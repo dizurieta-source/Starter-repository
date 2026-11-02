@@ -1,4 +1,4 @@
-# Starter-repository
+# nuevo proyecto
 
 Repositorio vacío, listo para un proyecto nuevo.
 
